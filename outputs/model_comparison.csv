@@ -1,0 +1,5 @@
+Model,CV R2,CV R2 std,CV MAE (lakhs),CV RMSE (lakhs),Test R2,Test MAE (lakhs)
+Gradient Boosting,0.894,0.102,0.635,1.522,0.952,0.523
+Random Forest,0.879,0.107,0.682,1.611,0.89,0.641
+Ridge,0.8,0.115,1.212,2.083,0.8,1.134
+Linear Regression,0.778,0.134,1.231,2.197,0.792,1.178
